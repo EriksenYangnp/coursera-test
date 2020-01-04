@@ -1,0 +1,41 @@
+JVM
+CLASS LOAD
+1.LOADING STATGE 
+2.LINGING STATGE 
+3.INITIALIZAING STATGE
+?REFLECTION?
+BOOTSTRAP - DE
+SETUP- MOmory size: -xx
+xms
+xmx
+https://stackoverflow.com/questions/14763079/what-are-the-xms-and-xmx-parameters-when-starting-jvm
+
+Design patten: 
+1.creation
+2.structure
+3.action
+Singleton:  getInstance
+
+proxy: InvocatinHndler
+
+xml: SAX DOM
+LONG - bigDecimal
+
+Json解析
+
+rest
+https://github.com/outwittester/myclass/blob/master/rest.md
+
+lesson 09
+applicationContext.xml
+ApplicationContext applicationContext = new ClassPathXmlApplicationContext()
+
+@Component       @Autowired
+@RestComponent
+@Service
+
+
+logback-spring.xml
+
+@Id
+@GenerateValue (每次加入 Id 自动add )
